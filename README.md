@@ -23,7 +23,7 @@ By creating a custom model that is fed with basic Xbox 360 modding related quest
 
 **"Why tho?"**
 
-I still see many basic questions from people who just started with Xbox 360 modding. It would be way smarted to just creaate some sort of support tool that could answer those basic questions instead of wasting more time and patience from people to answer these questions all over again. Also, those people are too dumb to use YouTube...
+I still see many basic questions from people who just started with Xbox 360 modding. It would be way smarted to just create some sort of support tool that could answer those basic questions instead of wasting more time and patience from people to answer these questions all over again. Also, those people are too dumb to use YouTube...
 
 **"But im quite dumb and dont know how any of this machine learning stuff works..."**
 
