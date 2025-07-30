@@ -1,5 +1,11 @@
 
 # ShatBot_Helper
+![ShatBot_Helper Main Menu](/ShatBot.png)
+*ShatBot_Helper Main Menu*
+
+![ShatBot_Helper Train Menu](/ShatTrainer.png)
+*ShatBot_Helper Train Menu*
+
 
 **How do I use this?**
 
@@ -30,3 +36,7 @@ The formatting is as followed: "text","label"
 After you implemented new test data you can simply use the tool to train the new model on the test data you just updated, wait a few seconds to let it complete training and thats it, you created with that your new model that is in whatever way better or worse.
 
 Keep both the "chatbot_data.csv" and the "chatbot_model.zip" on your desktop. The tool expects both these files in that location, you can easily change that by editing the path inside the code yourself, or hope that I might add a path selection of some sorts in the future
+<br><br>
+
+![Virustotal Reults](/VirusTotal.png)
+*Virus Total Results*
