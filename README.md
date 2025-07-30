@@ -1,5 +1,11 @@
 
 # ShatBot_Helper
+![ShatBot_Helper Main Menu](/ShatBot.png)
+*ShatBot_Helper Main Menu*
+
+![ShatBot_Helper Train Menu](/ShatTrainer.png)
+*ShatBot_Helper Train Menu*
+
 
 **How do I use this?**
 
@@ -17,7 +23,7 @@ By creating a custom model that is fed with basic Xbox 360 modding related quest
 
 **"Why tho?"**
 
-I still see many basic questions from people who just started with Xbox 360 modding. It would be way smarted to just creaate some sort of support tool that could answer those basic questions instead of wasting more time and patience from people to answer these questions all over again. Also, those people are too dumb to use YouTube...
+I still see many basic questions from people who just started with Xbox 360 modding. It would be way smarted to just create some sort of support tool that could answer those basic questions instead of wasting more time and patience from people to answer these questions all over again. Also, those people are too dumb to use YouTube...
 
 **"But im quite dumb and dont know how any of this machine learning stuff works..."**
 
@@ -30,3 +36,7 @@ The formatting is as followed: "text","label"
 After you implemented new test data you can simply use the tool to train the new model on the test data you just updated, wait a few seconds to let it complete training and thats it, you created with that your new model that is in whatever way better or worse.
 
 Keep both the "chatbot_data.csv" and the "chatbot_model.zip" on your desktop. The tool expects both these files in that location, you can easily change that by editing the path inside the code yourself, or hope that I might add a path selection of some sorts in the future
+<br><br>
+
+![Virustotal Reults](/VirusTotal.png)
+*Virus Total Results*
